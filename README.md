@@ -1,6 +1,6 @@
 ### Hi there data alchemists 👋 💾 ⚗️
 
-I'm a 🎖️👨 U.S. Marine turned 👨‍💻 Software Engineer and Developer Advocate working with the open-source [Trino](trino.io) ([formerly PrestoSQL](https://trino.io/blog/2020/12/27/announcing-trino.html))community.
+I'm a 🎖️👨 U.S. Marine turned 👨‍💻 Software Engineer and Developer Advocate working with the open-source [Trino](trino.io) ([formerly PrestoSQL](https://trino.io/blog/2020/12/27/announcing-trino.html)) community. Follow the 🐇!
 
 I know it's trite, but I'm a computer nerd that absolutely ❤️ s ☕.
 <p align="center">
