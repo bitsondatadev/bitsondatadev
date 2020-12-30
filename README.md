@@ -7,7 +7,13 @@ I know it's trite, but I'm a computer nerd that absolutely ❤️ s ☕.
   <img align="center" src="nerd.gif"/>
 </p>
 
+<strong style='font-size:2rem;'>About Me </strong>
+
 My primary interests are in the underlying algorithms of ⚙️🗄️ database systems, 💽🔎 data analytics, and 📈📊 data visualization. I've spent four years as a Data Engineer at a cybersecurity company working on pipeline maintenance and query optimization. While in this role, I was responsible for maintaining data pipelines and migrations to include replacing some legacy data warehousing systems to use open-source [Trino](trino.io). 
+
+- 🔭 I make community streamcasts 📺/ podcasts 🎙️ for Trino users. Check it out https://trino.io/broadcast/. Next goal is to make a Trino course!
+
+- 🌱 I’m currently improving my ✍️ writing and getting even more involved with the community and learning more about how Trino works and how users use it!
 
 <details><summary><strong style='font-size:2rem;'>📜 History</strong></summary>
 <p align="center">
@@ -16,10 +22,6 @@ My primary interests are in the underlying algorithms of ⚙️🗄️ database 
 I served six years in the Marine Corps and got out with an honorable discharge as a Sergeant. During that time my job was to maintain data communications 📡 through networking systems for a battalion for field operations. Experiencing the technology that enabled Marines to complete their mission planted a curiosity in me that led to my career in computation. 
 
 </details>
-
-- 🔭 I make community streamcasts 📺/ podcasts 🎙️ for Trino users. Check it out https://trino.io/broadcast/. Next goal is to make a Trino course!
-
-- 🌱 I’m currently improving my ✍️ writing and getting even more involved with the community and learning more about how Trino works and how users use it!
 
 <details><summary><strong style='font-size:2rem;'>📞 Contact </strong></summary>
 
