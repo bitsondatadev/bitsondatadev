@@ -10,7 +10,9 @@ I know it's trite, but I'm a computer nerd that absolutely ❤️ s ☕.
 My primary interests are in the underlying algorithms of ⚙️🗄️ database systems, 💽🔎 data analytics, and 📈📊 data visualization. I've spent four years as a Data Engineer at a cybersecurity company working on pipeline maintenance and query optimization. While in this role, I was responsible for maintaining data pipelines and migrations to include replacing some legacy data warehousing systems to use open-source [Trino](trino.io). 
 
 <details><summary><strong style='font-size:2rem;'>📜 History</strong></summary>
-
+<p align="center">
+  <img align="center" src="marine.gif"/>
+</p>
 I served six years in the Marine Corps and got out with an honorable discharge as a Sergeant. During that time my job was to maintain data communications 📡 through networking systems for a battalion for field operations. Experiencing the technology that enabled Marines to complete their mission planted a curiosity in me that led to my career in computation. 
 
 </details>
