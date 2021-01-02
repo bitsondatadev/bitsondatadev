@@ -33,6 +33,16 @@ I served six years in the Marine Corps and got out with an honorable discharge a
 - Reddit: https://www.reddit.com/user/bitsondatadev 
 - Stack Overflow: https://stackoverflow.com/users/2023810/brian-olsen
 </details>
+
+<a href="https://stackoverflow.com/users/2023810/brian-olsen">
+ <img src="https://stackoverflow.com/users/flair/2023810.png?theme=dark" 
+   width="208" 
+   height="58" 
+   alt="profile for Brian Olsen at Stack Overflow" 
+   title="profile for Brian Olsen at Stack Overflow">
+</a>
+
+
 <!--
 **bitsondatadev/bitsondatadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
