@@ -14,7 +14,7 @@ Did you know that [PrestoSQL](https://prestosql.io) is now [Trino](https://trino
 
 **Wait what's prestodb vs prestosql?** That's all explained in <a href="https://trino.io/blog/2020/12/27/announcing-trino.html" target="_blank">the blog</a> as well.
 
-**Which one am I on?** If your version is 300 - 350(and above), you're on Trino (formerly PrestoSQL), if your version is 0.54 (or above) you need to look at the namespace of the logs of your system. If you see io.prestosql or io.trinodb, you're on Trino, otherwise you're on PrestoDB.
+**Which one am I on?** If your version is 300 - 350(and above), you're on Trino (formerly PrestoSQL), if your version is 0.54 (or above) you need to look at the namespace of the logs of your system. If you see io.prestosql or io.trino, you're on Trino, otherwise you're on PrestoDB.
 
 **I use Athena, which is powered by Presto, does it use Trino?** Athena is a distribution of Presto maintained by Amazon that derives from a version common to both Trino and PrestoDB.
 
