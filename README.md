@@ -1,22 +1,26 @@
 ### Hi there data alchemists 👋 💾 ⚗️
 
-Did you know that [PrestoSQL](https://prestosql.io) is now [Trino](https://trino.io)!?
+Did you know that [PrestoSQL](https://prestosql.io) is now [Trino](https://trino.io)!? 😲
 
 <p align="center">
   <a href="https://trino.io/blog/2020/12/27/announcing-trino.html" target="_blank"><img align="center" src="Trino.jpg"/></a>
 </p>
 
+**What's a Presto or a Trino?** Fast distributed data engine that runs fast interactive SQL queries over multiple data sources (S3, HDFS, elasticsearch, MySQL, PostgreSQL, etc..)
+
 **Why is this happening?** <a href="https://trino.io/blog/2020/12/27/announcing-trino.html" target="_blank">Read this blog</a> to find out more. 
 
-**Wait is the software changing?** No, same software under a different banner, unless you're on prestodb.
+**Wait is the software changing?** No, same software and community under a different banner, unless you're on prestodb.
 
-**Wait what's prestodb vs prestosql?** That's all explained in the <a href="https://trino.io/blog/2020/12/27/announcing-trino.html" target="_blank">the blog</a> as well.
+**Wait what's prestodb vs prestosql?** That's all explained in <a href="https://trino.io/blog/2020/12/27/announcing-trino.html" target="_blank">the blog</a> as well.
 
 **Which one am I on?** If your version is 300 - 350(and above), you're on Trino (formerly PrestoSQL), if your version is 0.54 - 0.245 (or above) you're on PrestoDB.
 
 **I use Athena, which is powered by Presto, does it use Trino?** No, it uses PrestoDB.
 
 **Which do you recommend?** I personally chose Trino (PrestoSQL) in the company I worked at before Starburst because it's where the most growth is happening, it's where the founders and people who have committed most to both projects currently work, and frankly, it handles a wider breadth of use cases currently. 
+
+If you want to show us some 💕, [please give us a star on Github](https://github.com/trinodb/trino/blob/master/.github/star.png). 
 
 Oh, about me?
 
