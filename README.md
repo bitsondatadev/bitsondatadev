@@ -1,15 +1,35 @@
 ### Hi there data alchemists 👋 💾 ⚗️
 
+Did you know that [PrestoSQL](https://prestosql.io) is now [Trino](https://trino.io)!?
+
+<p align="center">
+  <a href="https://trino.io/blog/2020/12/27/announcing-trino.html" target="_blank"><img align="center" src="Trino.jpg"/></a>
+</p>
+
+**Why is this happening?** <a href="https://trino.io/blog/2020/12/27/announcing-trino.html" target="_blank">Read this blog</a> to find out more. 
+
+**Wait is the software changing?** No, same software under a different banner, unless you're on prestodb.
+
+**Wait what's prestodb vs prestosql?** That's all explained in the <a href="https://trino.io/blog/2020/12/27/announcing-trino.html" target="_blank">the blog</a> as well.
+
+**Which one am I on?** If your version is 300 - 350(and above), you're on Trino (formerly PrestoSQL), if your version is 0.54 - 0.245 (or above) you're on PrestoDB.
+
+**I use Athena, which is powered by Presto, does it use Trino?** No, it uses PrestoDB.
+
+**Which do you recommend?** I personally chose Trino (PrestoSQL) in the company I worked at before Starburst because it's where the most growth is happening, it's where the founders and people who have committed most to both projects currently work, and frankly, it handles a wider breadth of use cases currently. 
+
+Oh, about me?
+
 I'm a 🎖️👨 U.S. Marine turned 👨‍💻 Software Engineer and Developer Advocate working with the open-source [Trino](trino.io) ([formerly PrestoSQL](https://trino.io/blog/2020/12/27/announcing-trino.html)) community. Follow the 🐇!
 
-I know it's trite, but I'm a computer nerd that absolutely ❤️ s ☕.
+I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...but I'm owning it.
 <p align="center">
   <img align="center" src="nerd.gif"/>
 </p>
 
 <strong style='font-size:2rem;'>About Me </strong>
 
-My primary interests are in the underlying algorithms of ⚙️🗄️ database systems, 💽🔎 data analytics, and 📈📊 data visualization. I've spent four years as a Data Engineer at a cybersecurity company working on pipeline maintenance and query optimization. While in this role, I was responsible for maintaining data pipelines and migrations to include replacing some legacy data warehousing systems to use open-source [Trino](trino.io). 
+My primary interests are in the underlying algorithms of ⚙️🗄️ database systems, 💽🔎 data analytics, and 📈📊 data visualization. I've spent four years as a Data Engineer at a cybersecurity company working on pipeline maintenance and query optimization. While in this role, I was responsible for maintaining data pipelines and migrations to include replacing some legacy data warehousing systems to use open-source [Trino](trino.io). I enjoy playing guitar🎸, maps/GIS systems🗺️, oxford commas🔣, and long walks on the beach🏖️.
 
 - 🔭 I make community streamcasts 📺/ podcasts 🎙️ for Trino users. Check it out https://trino.io/broadcast/. Next goal is to make a Trino course!
 
