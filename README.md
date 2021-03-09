@@ -1,6 +1,6 @@
 ### Hi there data alchemists 👋 💾 ⚗️
 
-Did you know that [PrestoSQL](https://prestosql.io) is now [Trino](https://trino.io)!? 😲
+Did you know that PrestoSQL is now [Trino](https://trino.io)!? 😲
 
 <p align="center">
   <a href="https://trino.io/blog/2020/12/27/announcing-trino.html" target="_blank"><img align="center" src="Trino.jpg"/></a>
@@ -53,7 +53,6 @@ I served six years in the Marine Corps and got out with an honorable discharge a
 - Twitter: https://twitter.com/bitsondatadev
 - Twitch: https://www.twitch.tv/bitsondatadev
 - LinkedIn: https://www.linkedin.com/in/bitsondatadev/
-- Instagram: https://www.instagram.com/bitsondatadev/
 - Reddit: https://www.reddit.com/user/bitsondatadev 
 - Stack Overflow: https://stackoverflow.com/users/2023810/brian-olsen
 </details>
