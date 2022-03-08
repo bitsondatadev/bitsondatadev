@@ -82,7 +82,7 @@ What are your favorite bands, musical artists, or genres?
  - Artist: [Chris Cheney](https://en.wikipedia.org/wiki/Chris_Cheney) 
  - Genre: [Psychobilly](https://en.wikipedia.org/wiki/Psychobilly)
 
-###🎸 Activities###
+### 🎸 Activities ###
   
 What things do you nerd out on?
 Guitar and Code
@@ -103,7 +103,7 @@ What are your favorite games? (Board games, video games, etc.)
   - [Diablo I, II, III + extensions](https://en.wikipedia.org/wiki/Diablo_(series))
   - [Mega Man 6](https://en.wikipedia.org/wiki/Mega_Man_6)
   
-###🪞 Personal History###
+### 🪞 Personal History ###
 
 Where did you grow up or what places have you lived?
   - Born: Los Angeles, CA
