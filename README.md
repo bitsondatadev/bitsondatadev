@@ -1,6 +1,6 @@
 ### Hi there data alchemists 👋 💾 ⚗️
 
-I'm a 🎖️👨 U.S. Marine turned 👨‍💻 Software Engineer and Developer Advocate working with the open-source [Apache Iceberg](iceberg.apache.org) and [Trino](trino.io) community obsessed with making data lakehouses and data virtualization take the data industry by storm 🌩️!
+I'm a 🎖️👨 U.S. marine with ADHD 🧠 turned 👨‍💻 Software Engineer and Developer Advocate working with the open-source [Apache Iceberg](iceberg.apache.org) and [Trino](trino.io) community obsessed with making data lakehouses and data virtualization take the data industry by storm 🌩️!
 
 I'm a computer nerd that absolutely ❤️ s ☕. Yes it's trite...but I'm owning it.
 <p align="center">
